@@ -1,11 +1,14 @@
 citHeader("To cite dynmix package in publications use:")
 
-citEntry(entry="Manual",
-          title = "{dynmix}: {E}stimation of dynamic finite mixtures",
+bibentry(bibtype="Article",
+          title = "{''dynmix''}: {A}n {R} package for the estimation of dynamic finite mixtures",
           author = "Krzysztof Drachal",
-          year = "2020",
-          url ="https://CRAN.R-project.org/package=dynmix",
+          journal = "SoftwareX",
+          volume = 22,
+          pages = "101388",
+          year = "2023",
+          url = "https://doi.org/10.1016/j.softx.2023.101388",
 
           textVersion = 
-          "Drachal, K., 2020. dynmix: Estimation of dynamic finite mixtures. https://CRAN.R-project.org/package=dynmix"
+          "Drachal, K., 2023, ''dynmix'': An R package for the estimation of dynamic finite mixtures, SoftwareX 22, 101388, https://doi.org/10.1016/j.softx.2023.101388"
         ) 
