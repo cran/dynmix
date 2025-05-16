@@ -1,10 +1,10 @@
 Package: dynmix
 Type: Package
 Title: Estimation of Dynamic Finite Mixtures
-Version: 2.1
+Version: 2.2
 Imports: graphics, MASS, Rcpp, stats, utils, zoo
 LinkingTo: Rcpp, RcppArmadillo
-Date: 2025-01-24
+Date: 2025-05-15
 Authors@R: person("Krzysztof", "Drachal", role = c("aut","cre"), email="kdrachal@wne.uw.edu.pl", comment = "Faculty of Economic Sciences, University of Warsaw, Poland")
 Author: Krzysztof Drachal [aut, cre] (Faculty of Economic Sciences, University
     of Warsaw, Poland)
@@ -21,6 +21,7 @@ Note: Ver. 1.0: The author obtained financial resources as part of
         BOB-IDUB-622-89/2021 - Nowe Idee POB III IDUB, 01/IDUB/2019/94
         at the University of Warsaw, Poland.
 NeedsCompilation: yes
-Packaged: 2025-01-24 09:26:42 UTC; Krzysiek
+Packaged: 2025-05-15 18:30:30 UTC; Krzysiek
+Depends: R (>= 3.5.0)
 Repository: CRAN
-Date/Publication: 2025-01-24 10:00:12 UTC
+Date/Publication: 2025-05-16 08:50:20 UTC

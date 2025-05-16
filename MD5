@@ -1,6 +1,6 @@
-17412ab1e9a98d9d53f4dcf2baf7cb8d *DESCRIPTION
+98dcc65f55cc126655fd166e02e15286 *DESCRIPTION
 93e9282564ec1b6bb6e68fbdfa5506c3 *NAMESPACE
-3ae4cde78690b2717648cae73f4e6456 *NEWS
+c994f49d9f0f08e3f84db7c8bf38f56c *NEWS
 d22f123354a4ff4b14f92feeda61b96c *R/RcppExports.R
 b994407d0ef9d05afb32d9ac2fac3f14 *R/cauimp.R
 157a255e44e69366797d8daa015b18da *R/convts.R
@@ -22,7 +22,7 @@ c04eb2b5525fcb702dd082eb7c2b5a93 *R/print.qbnmix.R
 3aba685aea664b67bf0d7a595bf13300 *R/qbnmix.R
 4b4a0214b661e9a547bc5e10e7d392e5 *R/sqrtmat.R
 da5b4a0e3ec69dd5d3ba38c425800552 *R/tvp.reg.R
-fa4b79a7b42e9f420bd85a92dc3ed1e4 *data/oil.RData
+6f008b563dfe69c95144ff9653e95854 *data/oil.RData
 311c278d363c5281fb1d7f2f1e55c855 *inst/CITATION
 be946bf9da462bd4d78a53f23a5a06d2 *inst/include/dynmix.h
 8229727adfeaa5237a39b3ae837fde84 *man/cauimp.Rd
@@ -31,7 +31,7 @@ a1f836815b6e1622d6578caafc4e2c4d *man/convts.Rd
 ef7aeaf5a6af9531bb41f1e240960b22 *man/ltdl.Rd
 955078997cb1e3522c1d8406c9374e31 *man/mixest1.Rd
 7d2ceb2574043306568d535e70034e2a *man/mixest2.Rd
-571d9f351cabe9f677363ca6278075e7 *man/oil.Rd
+27cd9db6907f33212ce1bb79837eb94d *man/oil.Rd
 907557497d3395e53062020af3fe2d66 *man/plot.mixest.Rd
 dc815c5eaf8b7a167e353bea0b743d61 *man/plot.qbnmix.Rd
 9ffc619fbbd5d186ed9587fabba699e2 *man/plot.tvpreg.Rd
